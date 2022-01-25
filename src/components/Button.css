@@ -1,0 +1,13 @@
+.botao {
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  color: #ffffff;
+  padding: 16px 16px;
+  background: linear-gradient(95.04deg, #fe9a52 0.04%, #ff5748 100.04%);
+  border-radius: 4px;
+  border: 0;
+  cursor: pointer;
+}

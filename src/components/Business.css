@@ -1,0 +1,31 @@
+.left {
+  max-width: 561px;
+}
+.texto {
+  color: #9da1a6;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 140%;
+}
+.top {
+  margin-top: 110px;
+  margin-bottom: 156px;
+}
+h1 {
+  color: #5022e2;
+  font-weight: bold;
+  font-size: 54px;
+  line-height: 120%;
+  margin-bottom: 20px;
+}
+.texto-1 {
+  color: #4b4d4f;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 140%;
+  max-width: 466px;
+  margin-bottom: 56px;
+ margin-top: 18px;
+}
